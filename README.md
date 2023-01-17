@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning and interested in Linux, Cloud Technologies and DevOps culture in general
+I am currently learning and interested in Linux, Cloud Technologies and DevOps culture in general.
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@ I am currently learning and interested in Linux, Cloud Technologies and DevOps c
 
 ---
 [![](https://visitcount.itsvg.in/api?id=6lvckmania&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
