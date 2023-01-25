@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently learning and interested in Linux, Cloud Technologies and DevOps culture in general.
+I am a goal-oriented engineer who started his career in the field of telecommunications and quickly reached a management position.
+
+However, I realized that this is not enough for me and I am currently studying and interested in Linux, Cloud Technologies and DevOps culture in general.
+
+Outside of work, I like to travel and hike. Also, I am very passionate about the world of computer and board games.
 
 
 ## 🌐 Socials:
