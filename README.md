@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a goal-oriented engineer who started his career in the field of telecommunications and quickly reached a management position.
+As a driven engineer with a background in telecommunications, I swiftly progressed to a leadership role.
 
-However, I realized that this is not enough for me and I am currently studying and interested in Linux, Cloud Technologies and DevOps culture in general.
+Nevertheless, I recognized that my ambitions extend beyond this and am currently delving into the realms of Linux, Cloud Technologies, and DevOps culture.
 
-Outside of work, I like to travel and hike. Also, I am very passionate about the world of computer and board games.
+Beyond my professional endeavors, I relish exploring new destinations and hiking trails. Additionally, I have a keen interest in both computer and board gaming.
 
 
 ## 🌐 Socials:
